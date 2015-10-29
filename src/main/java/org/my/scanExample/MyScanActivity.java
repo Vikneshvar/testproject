@@ -31,7 +31,7 @@ public class MyScanActivity extends Activity {
         scanButton = (Button) findViewById(R.id.scanButton);
 
         resultTextView.setText("card.io library version: " + CardIOActivity.sdkVersion() + "\nBuilt: " + CardIOActivity.sdkBuildDate());
-        //SS
+        //SSfggfgfgfgfgf
     }
 
     @Override
